@@ -168,7 +168,7 @@ Tenho me dedicado ao aprendizado de programação, bancos de dados e desenvolvim
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8ABF00&color_dots=#8ABF00,#6e9900,#4d6b00,#404040&background=#1e1e1e">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8ABF00&color_dots=#8ABF00,#6e9900,#4d6b00,#404040">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake.svg">
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake.svg">
   </picture>
