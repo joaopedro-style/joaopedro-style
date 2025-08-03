@@ -165,11 +165,3 @@ Tenho me dedicado ao aprendizado de programação, bancos de dados e desenvolvim
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-style&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%238ABF00&color_dots=%238ABF00,%236e9900,%234d6b00,%23404040">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopedro-style/joaopedro-style/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
