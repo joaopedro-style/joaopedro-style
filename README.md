@@ -105,14 +105,6 @@ Tenho me dedicado ao aprendizado de programação, bancos de dados e desenvolvim
 />
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwindcss" 
     title="Tailwindcss"
     width="35px" 
