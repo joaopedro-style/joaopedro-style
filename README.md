@@ -1,7 +1,5 @@
 # 💻 João Pedro
 
-**`Desenvolvedor`**
-
 Olá! 👋 Sou João Pedro, desenvolvedor web apaixonado por tecnologia e soluções criativas.
 Formado em Técnico em Informática para Internet pelo Senac, venho me dedicando ao aprimoramento contínuo em programação, bancos de dados e desenvolvimento web.
 
