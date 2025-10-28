@@ -1,7 +1,7 @@
 # 💻 Desenvolvedor Web
 
 Olá! 👋 Sou João Pedro, desenvolvedor web apaixonado por tecnologia e soluções criativas.
-Formado em Técnico em Informática para Internet pelo Senac, venho aprimorando constantemente minhas habilidades em programação, bancos de dados e desenvolvimento web.
+Formado em Técnico em Informática para Internet pelo Senac, venho aprimorando constantemente minhas habilidades em programação, banco de dados e desenvolvimento web.
 
 Gosto de transformar ideias em projetos reais, explorando boas práticas, ferramentas modernas e frameworks que tornem o código mais limpo e eficiente.
 Atualmente, estou focado em back-end e desenvolvimento mobile, sempre buscando aprender, compartilhar conhecimento e evoluir como profissional.
