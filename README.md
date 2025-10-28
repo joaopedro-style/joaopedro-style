@@ -2,9 +2,11 @@
 
 **`Desenvolvedor`**
 
-👋 Olá! Meu nome é João Pedro, tenho 28 anos e sou de São Paulo.
-Atualmente, estou finalizando o curso Técnico em Informática para Internet pelo Senac.
-Tenho me dedicado ao aprendizado de programação, bancos de dados e desenvolvimento de aplicações web, buscando sempre evoluir como desenvolvedor.
+Olá! 👋 Sou João Pedro, desenvolvedor web apaixonado por tecnologia e soluções criativas.
+Formado em Técnico em Informática para Internet pelo Senac, venho me dedicando ao aprimoramento contínuo em programação, bancos de dados e desenvolvimento web.
+
+Gosto de transformar ideias em projetos reais, explorando boas práticas, novas ferramentas e frameworks que tornem o código mais limpo e eficiente.
+Atualmente, estou focado em aprimorar minhas habilidades em back-end e mobile, sempre buscando aprender, compartilhar conhecimento com a comunidade e evoluir como desenvolvedor.
 
 <p align="left">
   <a href="mailto:joaopedro18231@hotmail.com">
